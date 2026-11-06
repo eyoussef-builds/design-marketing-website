@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+references/local-profile.md
+**/references/local-profile.md
+private/
+release-state/

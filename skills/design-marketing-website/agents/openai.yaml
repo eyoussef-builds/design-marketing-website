@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design Marketing Website"
+  short_description: "Brief, build and review distinctive product websites"
+  default_prompt: "Use $design-marketing-website to turn our product definition into a distinctive marketing website brief, then complete the requested build or handoff and final review."
+policy:
+  allow_implicit_invocation: true
